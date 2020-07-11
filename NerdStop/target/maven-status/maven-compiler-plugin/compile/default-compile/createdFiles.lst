@@ -1,0 +1,6 @@
+com\niit\ecom\controller\HomeController.class
+com\niit\ecom\controller\CartController.class
+com\niit\ecom\controller\ProductController.class
+com\niit\ecom\controller\CategoryController.class
+com\niit\ecom\controller\SupplierController.class
+com\niit\ecom\controller\UserController.class
